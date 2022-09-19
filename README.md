@@ -16,20 +16,20 @@ To start, my team needs to confirm that newly created alerts are working. Once t
 
   <br>
 
-- **Alert and Attacking Target 1
+- Alert and Attacking Target 1
 
     - Configure alerts in Kibana 
     - Attack a machine on the network.
     - Capture the flag on the victim machine.
 
-- *Wireshark Strikes Back
+- Wireshark Strikes Back
 
     - Capture network traffic
     - Investigate a number of suspicious activities
     - Collect corporate misuse evidence
     - Work in groups to create a presentation
 
-- **Final Group Presentations
+- Final Group Presentations
 
     - Complete and submit group presentations
     - Submit an offensive red team analysis
@@ -79,9 +79,9 @@ Open the Hyper-V Manager to access the nested machines:
 
 ---
 
-![Network Diagram](https://github.com/raospiratory/Final-Engagement/blob/main/Images/finalprojectnet.drawio)
+![Network Diagram](https://github.com/raospiratory/Final-Engagement/blob/main/Diagram/NetworkDiagram.png)
 
-###Description of the Topology
+### Description of the Topology
 
 The main purpose of this network is to expose an attack within a vulnerable VM within your environment. After, we will be collecting logs and data from the attack and analyzing the extracted data and visualize the results. We will be using Azure Lab Services. RDP into the Windows RDP host machine and then opening the Hyper-V Manager to access the nested machines: 
 - Kali VM - Attacker Machine
@@ -94,11 +94,11 @@ The main purpose of this network is to expose an attack within a vulnerable VM w
 
 
 ### Reports
-To view the Offensive Report Analysis for this project please click [here](https://github.com/raospiratory/Final-Engagement/blob/main/Presentation/RedTeamReport.pdf).
+- To view the Offensive Report Analysis for this project please click [here](https://github.com/raospiratory/Final-Engagement/blob/main/Presentation/RedTeamReport.pdf).
 
-To view the Defensive Report Analysis for this project please click [here](https://github.com/raospiratory/Final-Engagement/blob/main/Presentation/BlueTeamReport.pdf).
+- To view the Defensive Report Analysis for this project please click [here](https://github.com/raospiratory/Final-Engagement/blob/main/Presentation/BlueTeamReport.pdf).
 
-To view the Network Report Analysis for this project please click [here](https://github.com/raospiratory/Final-Engagement/blob/main/Presentation/NetworkAnalysis.pdf).
+- To view the Network Report Analysis for this project please click [here](https://github.com/raospiratory/Final-Engagement/blob/main/Presentation/NetworkAnalysis.pdf).
 
 ---
 
